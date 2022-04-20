@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/rock_destruction.wav-ec8941b7f458c36701e04f1858d0c102.sample"
+
+[deps]
+
+source_file="res://Sounds/rock_destruction.wav"
+dest_files=[ "res://.import/rock_destruction.wav-ec8941b7f458c36701e04f1858d0c102.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
